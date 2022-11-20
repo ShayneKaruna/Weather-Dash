@@ -1,6 +1,6 @@
 ## Weather Dashboard
 
-https://github.com/ShayneKaruna/Weather-Dash
+https://shaynekaruna.github.io/Weather-Dash/
 
 
 ## User Story
